@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author - Sandesh Lahane
+Author - Sandesh (Apna College)
